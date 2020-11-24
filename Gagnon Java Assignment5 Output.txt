@@ -1,0 +1,102 @@
+Brett Gagnon
+Intro to Java Programming
+10/13/2018
+IDE Run-time Output
+
+TEST #1
+
+run:
+Enter the size of the array (3-10):
+9
+Enter 9 values
+Enter a value for element 0:
+1000
+Enter a value for element 1:
+-200
+Enter a value for element 2:
+500
+Enter a value for element 3:
+150
+Enter a value for element 4:
+600
+Enter a value for element 5:
+800
+Enter a value for element 6:
+150
+Enter a value for element 7:
+50
+Enter a value for element 8:
+-25
+
+The unsorted values...
+1000
+-200
+500
+150
+600
+800
+150
+50
+-25
+
+The sorted values...
+-200
+-25
+50
+150
+150
+500
+600
+800
+1000
+BUILD SUCCESSFUL (total time: 44 seconds)
+
+
+TEST # 2
+run:
+Enter the size of the array (3-10):
+2
+Invalid Entry!!
+Enter the size of the array (3-10):
+12
+Invalid Entry!!
+Enter the size of the array (3-10):
+8
+Enter 8 values
+Enter a value for element 0:
+43
+Enter a value for element 1:
+-420
+Enter a value for element 2:
+59
+Enter a value for element 3:
+632
+Enter a value for element 4:
+-89
+Enter a value for element 5:
+3
+Enter a value for element 6:
+42
+Enter a value for element 7:
+98
+
+The unsorted values...
+43
+-420
+59
+632
+-89
+3
+42
+98
+
+The sorted values...
+-420
+-89
+3
+42
+43
+59
+98
+632
+BUILD SUCCESSFUL (total time: 51 seconds)
